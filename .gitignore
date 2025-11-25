@@ -1,0 +1,11 @@
+# NetBeans files to ignore
+/nbproject/private/
+/build/
+/dist/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Compiled files
+*.class

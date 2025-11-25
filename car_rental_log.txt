@@ -1,0 +1,280 @@
+2025-11-19 23:34:30 - Started background task: Load Customers
+2025-11-19 23:34:30 - Started background task: Load Cars
+2025-11-19 23:34:30 - Completed background task: Load Cars
+2025-11-19 23:34:30 - Completed background task: Load Customers
+2025-11-19 23:34:31 - Started background task: Load Rentals
+2025-11-19 23:34:31 - Started background task: Load Available Cars
+2025-11-19 23:34:31 - Started background task: Load Customers
+2025-11-19 23:34:31 - Completed background task: Load Rentals
+2025-11-19 23:34:31 - Completed background task: Load Available Cars
+2025-11-19 23:34:31 - Completed background task: Load Customers
+2025-11-19 23:34:31 - Application started
+2025-11-19 23:35:01 - Started background task: Generate Summary Report
+2025-11-19 23:35:01 - Completed background task: Generate Summary Report
+2025-11-19 23:35:01 - Generated summary report
+2025-11-19 23:35:03 - Started background task: Generate Car Usage Report
+2025-11-19 23:35:03 - Completed background task: Generate Car Usage Report
+2025-11-19 23:35:03 - Generated car usage report
+2025-11-19 23:35:06 - Started background task: Generate Customer Activity Report
+2025-11-19 23:35:06 - Completed background task: Generate Customer Activity Report
+2025-11-19 23:35:06 - Generated customer activity report
+2025-11-19 23:35:38 - Started background task: Load Customers
+2025-11-19 23:35:38 - Started background task: Load Cars
+2025-11-19 23:35:38 - Completed background task: Load Cars
+2025-11-19 23:35:38 - Completed background task: Load Customers
+2025-11-19 23:35:38 - Started background task: Load Rentals
+2025-11-19 23:35:38 - Started background task: Load Available Cars
+2025-11-19 23:35:38 - Started background task: Load Customers
+2025-11-19 23:35:38 - Completed background task: Load Rentals
+2025-11-19 23:35:38 - Completed background task: Load Available Cars
+2025-11-19 23:35:38 - Completed background task: Load Customers
+2025-11-19 23:35:38 - Application started
+2025-11-21 15:10:40 - Started background task: Load Cars
+2025-11-21 15:10:40 - Completed background task: Load Cars
+2025-11-21 15:10:41 - Started background task: Load Customers
+2025-11-21 15:10:41 - Completed background task: Load Customers
+2025-11-21 15:10:41 - Started background task: Load Rentals
+2025-11-21 15:10:41 - Completed background task: Load Rentals
+2025-11-21 15:10:41 - Started background task: Load Available Cars
+2025-11-21 15:10:41 - Completed background task: Load Available Cars
+2025-11-21 15:10:41 - Started background task: Load Customers
+2025-11-21 15:10:41 - Completed background task: Load Customers
+2025-11-21 15:10:41 - Application started
+2025-11-21 15:12:42 - Started background task: Load Cars
+2025-11-21 15:12:42 - Started background task: Load Customers
+2025-11-21 15:12:42 - Completed background task: Load Cars
+2025-11-21 15:12:42 - Completed background task: Load Customers
+2025-11-21 15:12:42 - Started background task: Load Rentals
+2025-11-21 15:12:42 - Started background task: Load Available Cars
+2025-11-21 15:12:42 - Started background task: Load Customers
+2025-11-21 15:12:42 - Completed background task: Load Rentals
+2025-11-21 15:12:42 - Completed background task: Load Available Cars
+2025-11-21 15:12:42 - Completed background task: Load Customers
+2025-11-21 15:12:42 - Application started
+2025-11-22 20:29:14 - Started background task: Load Cars
+2025-11-22 20:29:14 - Completed background task: Load Cars
+2025-11-22 20:29:14 - Started background task: Load Customers
+2025-11-22 20:29:14 - Completed background task: Load Customers
+2025-11-22 20:29:14 - Started background task: Load Rentals
+2025-11-22 20:29:14 - Completed background task: Load Rentals
+2025-11-22 20:29:14 - Started background task: Load Available Cars
+2025-11-22 20:29:14 - Completed background task: Load Available Cars
+2025-11-22 20:29:14 - Started background task: Load Customers
+2025-11-22 20:29:14 - Completed background task: Load Customers
+2025-11-22 20:29:14 - Application started
+2025-11-22 20:29:41 - Started background task: Add Car
+2025-11-22 20:29:41 - Completed background task: Add Car
+2025-11-22 20:29:43 - Added new car: toyota camry
+2025-11-22 20:29:43 - Started background task: Load Cars
+2025-11-22 20:29:43 - Completed background task: Load Cars
+2025-11-22 20:29:52 - Started background task: Update Car
+2025-11-22 20:29:52 - Completed background task: Update Car
+2025-11-22 20:29:53 - Updated car: toyota camry
+2025-11-22 20:29:53 - Started background task: Load Cars
+2025-11-22 20:29:53 - Completed background task: Load Cars
+2025-11-22 20:29:59 - Started background task: Load Cars
+2025-11-22 20:29:59 - Completed background task: Load Cars
+2025-11-22 20:30:30 - Started background task: Add Customer
+2025-11-22 20:30:30 - Completed background task: Add Customer
+2025-11-22 20:30:32 - Added new customer: osama
+2025-11-22 20:30:32 - Started background task: Load Customers
+2025-11-22 20:30:32 - Completed background task: Load Customers
+2025-11-22 20:30:43 - Started background task: Load Rentals
+2025-11-22 20:30:43 - Started background task: Load Customers
+2025-11-22 20:30:43 - Started background task: Load Available Cars
+2025-11-22 20:30:43 - Completed background task: Load Customers
+2025-11-22 20:30:43 - Completed background task: Load Rentals
+2025-11-22 20:30:43 - Completed background task: Load Available Cars
+2025-11-22 20:30:45 - Started background task: Load Customers
+2025-11-22 20:30:45 - Started background task: Load Rentals
+2025-11-22 20:30:45 - Started background task: Load Available Cars
+2025-11-22 20:30:45 - Completed background task: Load Customers
+2025-11-22 20:30:45 - Completed background task: Load Available Cars
+2025-11-22 20:30:45 - Completed background task: Load Rentals
+2025-11-22 20:31:02 - Started background task: Create Rental
+2025-11-22 20:31:02 - Completed background task: Create Rental
+2025-11-22 20:31:14 - Started background task: Create Rental
+2025-11-22 20:31:14 - Completed background task: Create Rental
+2025-11-22 20:31:27 - Started background task: Create Rental
+2025-11-22 20:31:27 - Completed background task: Create Rental
+2025-11-22 20:31:29 - Started background task: Load Rentals
+2025-11-22 20:31:29 - Started background task: Load Available Cars
+2025-11-22 20:31:29 - Created rental for car: toyota camry (2001) - 5-918829 and customer: osama (osamabinladin@gmail.com)
+2025-11-22 20:31:29 - Completed background task: Load Available Cars
+2025-11-22 20:31:29 - Completed background task: Load Rentals
+2025-11-22 20:31:32 - Started background task: Complete Rental
+2025-11-22 20:31:32 - Completed background task: Complete Rental
+2025-11-22 20:31:33 - Started background task: Load Available Cars
+2025-11-22 20:31:33 - Completed rental with ID: 1
+2025-11-22 20:31:33 - Started background task: Load Rentals
+2025-11-22 20:31:33 - Completed background task: Load Rentals
+2025-11-22 20:31:33 - Completed background task: Load Available Cars
+2025-11-22 20:31:45 - Started background task: Complete Rental
+2025-11-22 20:31:45 - Completed background task: Complete Rental
+2025-11-22 20:31:47 - Started background task: Complete Rental
+2025-11-22 20:31:47 - Completed background task: Complete Rental
+2025-11-22 20:38:35 - Started background task: Create Rental
+2025-11-22 20:38:35 - Completed background task: Create Rental
+2025-11-22 20:38:37 - Started background task: Load Rentals
+2025-11-22 20:38:37 - Created rental for car: toyota camry (2001) - 5-918829 and customer: osama (osamabinladin@gmail.com)
+2025-11-22 20:38:37 - Started background task: Load Available Cars
+2025-11-22 20:38:37 - Completed background task: Load Rentals
+2025-11-22 20:38:37 - Completed background task: Load Available Cars
+2025-11-22 20:38:40 - Started background task: Complete Rental
+2025-11-22 20:38:40 - Completed background task: Complete Rental
+2025-11-22 20:38:42 - Started background task: Load Rentals
+2025-11-22 20:38:42 - Started background task: Load Available Cars
+2025-11-22 20:38:42 - Completed rental with ID: 2
+2025-11-22 20:38:42 - Completed background task: Load Rentals
+2025-11-22 20:38:42 - Completed background task: Load Available Cars
+2025-11-22 20:39:11 - Started auto-refresh with interval: 1 seconds
+2025-11-22 20:39:12 - Auto-refreshed table data
+2025-11-22 20:39:13 - Auto-refreshed table data
+2025-11-22 20:39:14 - Auto-refreshed table data
+2025-11-22 20:39:15 - Auto-refreshed table data
+2025-11-22 20:39:16 - Auto-refreshed table data
+2025-11-22 20:39:17 - Auto-refreshed table data
+2025-11-22 20:39:18 - Auto-refreshed table data
+2025-11-22 20:39:19 - Auto-refreshed table data
+2025-11-22 20:39:20 - Auto-refreshed table data
+2025-11-22 20:39:21 - Auto-refreshed table data
+2025-11-22 20:39:22 - Auto-refreshed table data
+2025-11-22 20:39:23 - Auto-refreshed table data
+2025-11-22 20:39:24 - Auto-refreshed table data
+2025-11-22 20:39:25 - Auto-refreshed table data
+2025-11-22 20:39:26 - Auto-refreshed table data
+2025-11-22 20:39:27 - Auto-refreshed table data
+2025-11-22 20:39:28 - Auto-refreshed table data
+2025-11-22 20:39:29 - Auto-refreshed table data
+2025-11-22 20:39:30 - Auto-refreshed table data
+2025-11-22 20:39:31 - Auto-refreshed table data
+2025-11-22 20:39:32 - Auto-refreshed table data
+2025-11-22 20:39:33 - Auto-refreshed table data
+2025-11-22 20:39:34 - Auto-refreshed table data
+2025-11-22 20:39:35 - Auto-refreshed table data
+2025-11-22 20:39:36 - Auto-refreshed table data
+2025-11-22 20:39:37 - Auto-refreshed table data
+2025-11-22 20:39:38 - Auto-refreshed table data
+2025-11-22 20:39:39 - Auto-refreshed table data
+2025-11-22 20:39:40 - Auto-refreshed table data
+2025-11-22 20:39:41 - Auto-refreshed table data
+2025-11-22 20:39:42 - Auto-refreshed table data
+2025-11-22 20:39:43 - Auto-refreshed table data
+2025-11-22 20:39:44 - Auto-refreshed table data
+2025-11-22 20:39:45 - Auto-refreshed table data
+2025-11-22 20:39:46 - Auto-refreshed table data
+2025-11-22 20:39:47 - Auto-refreshed table data
+2025-11-22 20:39:48 - Auto-refreshed table data
+2025-11-22 20:39:49 - Auto-refreshed table data
+2025-11-22 20:39:50 - Auto-refreshed table data
+2025-11-22 20:39:51 - Auto-refreshed table data
+2025-11-22 20:39:52 - Auto-refreshed table data
+2025-11-22 20:39:53 - Auto-refreshed table data
+2025-11-22 20:39:54 - Auto-refreshed table data
+2025-11-22 20:39:55 - Auto-refreshed table data
+2025-11-22 20:39:56 - Auto-refreshed table data
+2025-11-22 20:39:57 - Auto-refreshed table data
+2025-11-22 20:39:58 - Auto-refreshed table data
+2025-11-22 20:39:59 - Auto-refreshed table data
+2025-11-22 20:40:00 - Auto-refreshed table data
+2025-11-22 20:40:01 - Auto-refreshed table data
+2025-11-22 20:40:02 - Auto-refreshed table data
+2025-11-22 20:40:03 - Auto-refreshed table data
+2025-11-22 20:40:04 - Auto-refreshed table data
+2025-11-22 20:40:05 - Auto-refreshed table data
+2025-11-22 20:40:06 - Auto-refreshed table data
+2025-11-22 20:40:07 - Auto-refreshed table data
+2025-11-22 20:40:08 - Auto-refreshed table data
+2025-11-22 20:40:09 - Auto-refreshed table data
+2025-11-22 20:40:10 - Auto-refreshed table data
+2025-11-22 20:40:11 - Auto-refreshed table data
+2025-11-22 20:40:12 - Auto-refreshed table data
+2025-11-22 20:40:13 - Auto-refreshed table data
+2025-11-22 20:40:14 - Auto-refreshed table data
+2025-11-22 20:40:15 - Auto-refreshed table data
+2025-11-22 20:40:16 - Auto-refreshed table data
+2025-11-22 20:40:17 - Auto-refreshed table data
+2025-11-22 20:40:18 - Auto-refreshed table data
+2025-11-22 20:40:19 - Auto-refreshed table data
+2025-11-22 20:40:20 - Auto-refreshed table data
+2025-11-22 20:40:21 - Auto-refreshed table data
+2025-11-22 20:40:22 - Started background task: Delete Rental
+2025-11-22 20:40:22 - Completed background task: Delete Rental
+2025-11-22 20:40:22 - Auto-refreshed table data
+2025-11-22 20:40:23 - Started background task: Load Available Cars
+2025-11-22 20:40:23 - Started background task: Load Rentals
+2025-11-22 20:40:23 - Deleted rental with ID: 1
+2025-11-22 20:40:23 - Completed background task: Load Rentals
+2025-11-22 20:40:23 - Completed background task: Load Available Cars
+2025-11-22 20:40:23 - Auto-refreshed table data
+2025-11-22 20:40:24 - Auto-refreshed table data
+2025-11-22 20:40:25 - Auto-refreshed table data
+2025-11-22 20:40:25 - Started background task: Delete Rental
+2025-11-22 20:40:25 - Completed background task: Delete Rental
+2025-11-22 20:40:26 - Deleted rental with ID: 2
+2025-11-22 20:40:26 - Started background task: Load Available Cars
+2025-11-22 20:40:26 - Started background task: Load Rentals
+2025-11-22 20:40:26 - Completed background task: Load Rentals
+2025-11-22 20:40:26 - Completed background task: Load Available Cars
+2025-11-22 20:40:26 - Auto-refreshed table data
+2025-11-22 20:40:27 - Auto-refreshed table data
+2025-11-22 20:40:28 - Auto-refreshed table data
+2025-11-22 20:40:28 - Stopped auto-refresh
+2025-11-22 20:40:35 - Started background task: Delete Customer
+2025-11-22 20:40:35 - Completed background task: Delete Customer
+2025-11-22 20:40:36 - Started background task: Load Customers
+2025-11-22 20:40:36 - Deleted customer with ID: -1
+2025-11-22 20:40:36 - Completed background task: Load Customers
+2025-11-22 20:40:39 - Started background task: Delete Car
+2025-11-22 20:40:39 - Completed background task: Delete Car
+2025-11-22 20:40:40 - Deleted car with ID: -1
+2025-11-22 20:40:40 - Started background task: Load Cars
+2025-11-22 20:40:40 - Completed background task: Load Cars
+2025-11-22 21:49:40 - Started background task: Load Customers
+2025-11-22 21:49:40 - Started background task: Load Cars
+2025-11-22 21:49:40 - Completed background task: Load Customers
+2025-11-22 21:49:40 - Completed background task: Load Cars
+2025-11-22 21:49:40 - Started background task: Load Rentals
+2025-11-22 21:49:40 - Started background task: Load Available Cars
+2025-11-22 21:49:40 - Started background task: Load Customers
+2025-11-22 21:49:40 - Completed background task: Load Rentals
+2025-11-22 21:49:40 - Completed background task: Load Available Cars
+2025-11-22 21:49:40 - Completed background task: Load Customers
+2025-11-22 21:49:40 - Application started
+2025-11-22 21:55:24 - Started background task: Add Car
+2025-11-22 21:55:24 - Completed background task: Add Car
+2025-11-22 21:55:25 - Started background task: Load Cars
+2025-11-22 21:55:25 - Added new car: Toyota Carolla
+2025-11-22 21:55:25 - Completed background task: Load Cars
+2025-11-22 21:57:53 - Started background task: Add Customer
+2025-11-22 21:57:53 - Completed background task: Add Customer
+2025-11-22 21:57:54 - Added new customer: kaboura
+2025-11-22 21:57:54 - Started background task: Load Customers
+2025-11-22 21:57:54 - Completed background task: Load Customers
+2025-11-22 21:57:58 - Started background task: Load Available Cars
+2025-11-22 21:57:58 - Started background task: Load Rentals
+2025-11-22 21:57:58 - Started background task: Load Customers
+2025-11-22 21:57:58 - Completed background task: Load Available Cars
+2025-11-22 21:57:58 - Completed background task: Load Customers
+2025-11-22 21:57:58 - Completed background task: Load Rentals
+2025-11-22 21:58:03 - Started background task: Create Rental
+2025-11-22 21:58:03 - Completed background task: Create Rental
+2025-11-22 21:58:28 - Started background task: Create Rental
+2025-11-22 21:58:28 - Completed background task: Create Rental
+2025-11-22 21:58:29 - Created rental for car: Toyota Carolla (2012) - 5-23523 and customer: kaboura (kaboura@gmail.com)
+2025-11-22 21:58:29 - Started background task: Load Available Cars
+2025-11-22 21:58:29 - Started background task: Load Rentals
+2025-11-22 21:58:29 - Completed background task: Load Available Cars
+2025-11-22 21:58:29 - Completed background task: Load Rentals
+2025-11-22 22:00:23 - Started background task: Generate Summary Report
+2025-11-22 22:00:23 - Completed background task: Generate Summary Report
+2025-11-22 22:00:23 - Generated summary report
+2025-11-22 22:00:24 - Started background task: Generate Car Usage Report
+2025-11-22 22:00:24 - Completed background task: Generate Car Usage Report
+2025-11-22 22:00:24 - Generated car usage report
+2025-11-22 22:00:27 - Started background task: Generate Customer Activity Report
+2025-11-22 22:00:27 - Completed background task: Generate Customer Activity Report
+2025-11-22 22:00:27 - Generated customer activity report
+2025-11-22 22:00:28 - Started background task: Generate Summary Report
+2025-11-22 22:00:28 - Completed background task: Generate Summary Report
+2025-11-22 22:00:29 - Generated summary report
