@@ -278,3 +278,51 @@
 2025-11-22 22:00:28 - Started background task: Generate Summary Report
 2025-11-22 22:00:28 - Completed background task: Generate Summary Report
 2025-11-22 22:00:29 - Generated summary report
+2025-11-25 21:26:24 - Started background task: Load Cars
+2025-11-25 21:26:24 - Completed background task: Load Cars
+2025-11-25 21:26:24 - Started background task: Load Customers
+2025-11-25 21:26:24 - Completed background task: Load Customers
+2025-11-25 21:26:24 - Started background task: Load Rentals
+2025-11-25 21:26:24 - Started background task: Load Available Cars
+2025-11-25 21:26:24 - Completed background task: Load Available Cars
+2025-11-25 21:26:24 - Started background task: Load Customers
+2025-11-25 21:26:24 - Completed background task: Load Customers
+2025-11-25 21:26:24 - Completed background task: Load Rentals
+2025-11-25 21:26:24 - Application started
+2025-12-07 14:52:54 - Started background task: Load Cars
+2025-12-07 14:52:54 - Completed background task: Load Cars
+2025-12-07 14:52:54 - Started background task: Load Customers
+2025-12-07 14:52:54 - Completed background task: Load Customers
+2025-12-07 14:52:54 - Started background task: Load Rentals
+2025-12-07 14:52:54 - Started background task: Load Available Cars
+2025-12-07 14:52:54 - Completed background task: Load Available Cars
+2025-12-07 14:52:54 - Started background task: Load Customers
+2025-12-07 14:52:54 - Completed background task: Load Customers
+2025-12-07 14:52:54 - Application started
+2025-12-07 14:52:54 - Completed background task: Load Rentals
+2025-12-07 14:54:15 - Started background task: Add Car
+2025-12-07 14:54:15 - Completed background task: Add Car
+2025-12-07 14:54:16 - Added new car: nigger nigger
+2025-12-07 14:54:16 - Started background task: Load Cars
+2025-12-07 14:54:16 - Completed background task: Load Cars
+2025-12-07 15:14:31 - Started background task: Load Cars
+2025-12-07 15:14:31 - Started background task: Load Customers
+2025-12-07 15:14:31 - Completed background task: Load Cars
+2025-12-07 15:14:31 - Completed background task: Load Customers
+2025-12-07 15:14:31 - Started background task: Load Rentals
+2025-12-07 15:14:31 - Started background task: Load Available Cars
+2025-12-07 15:14:31 - Started background task: Load Customers
+2025-12-07 15:14:31 - Completed background task: Load Available Cars
+2025-12-07 15:14:31 - Completed background task: Load Customers
+2025-12-07 15:14:31 - Completed background task: Load Rentals
+2025-12-07 15:14:31 - Application started
+2025-12-07 15:14:38 - Started background task: Delete Car
+2025-12-07 15:14:38 - Completed background task: Delete Car
+2025-12-07 15:14:39 - Deleted car with ID: -1
+2025-12-07 15:14:39 - Started background task: Load Cars
+2025-12-07 15:14:39 - Completed background task: Load Cars
+2025-12-07 15:14:59 - Started background task: Delete Car
+2025-12-07 15:14:59 - Completed background task: Delete Car
+2025-12-07 15:15:00 - Deleted car with ID: -1
+2025-12-07 15:15:00 - Started background task: Load Cars
+2025-12-07 15:15:00 - Completed background task: Load Cars
